@@ -696,42 +696,6 @@ margin: auto;
   
 
   
-  /*footer-left*/
-  
-  .footer-left{
-  display: flex;
-  margin-left: 28px;
-  width: 52%;
-  }
-  
-  
-  .footer-logo {
-  width: 10%;
-  display: flex;
-  justify-content: center;
-  }
-  
-  
-  div.footer-ytname {
-  justify-content: center;
-  display: flex;
-  font-size: large;
-  color: blueviolet;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  margin:0 27px ;
-  align-items: center;
-  }
-  
-  
-  
-  
-  
-  
-  .footer-logo img {
-  width: 100%;
-  border: 3px solid rgb(255, 255, 255);
-  border-radius: 50%;
-  }
   
   /*footer-text_center*/
   
