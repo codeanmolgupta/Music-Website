@@ -70,7 +70,7 @@ display: flex;
     font-size: 160%;
     transition: 1s;
     color: white;
-    margin:2% 0 ;
+    padding:2% 0 ;
     width:fit-content;
 }
 
