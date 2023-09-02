@@ -404,6 +404,34 @@ margin: auto;
     }
 
 
+/* Imagine Dragons */
+
+.artist-imagine-dragons-main{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    padding: 1.5% 3%;
+}
+
+.artist-imagine-dragons-main:hover{
+    opacity: 0.8;
+}
+
+.artist-imagine-dragons-image img{
+    width:200px;
+    border: 3px solid white;
+    border-radius: 100px;
+}
+
+.artist-imagine-dragons-text{
+    color: white;
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+
 
      /* Arijit Singh */
 
