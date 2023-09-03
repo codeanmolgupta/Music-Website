@@ -34,7 +34,8 @@ body{
   }
   
   .h1-hello:hover{
-      text-shadow: 5px 5px 10px rgb(254, 101, 101);
+      /* text-shadow: 5px 5px 10px rgb(254, 101, 101); */
+      text-shadow: 10px 60px 20px rgb(254, 101, 101);
   }
   
   
@@ -290,7 +291,7 @@ margin: auto;
         margin: 10px;
     }
 
-    /* Mann Bharryaa */
+    /* Ranjha */
 .ranjha{
     border: 3px solid white;
     border-radius: 5px;
@@ -320,6 +321,190 @@ margin: auto;
     }
 
     .image-ranjha img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+
+/* Desh Mere */
+.desh_mere{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(139, 91, 65, 0.82);
+    }
+    
+    .desh_mere-audio{
+    width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-desh_mere{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-desh_mere img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+
+    /* Teri_Mitti */
+.teri_mitti{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(65, 93, 139, 0.82);
+    }
+    
+    .teri_mitti-audio{
+    width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-teri_mitti{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-teri_mitti img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+/* Ve Maahi */
+.ve_maahi{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(51, 157, 127, 0.82);
+    }
+    
+    .ve_maahi-audio{
+    width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-ve_maahi{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-ve_maahi img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+
+     /* Bones */
+.bones{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(56, 119, 167, 0.822);
+    }
+    
+    .bones-audio{
+        width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-bones{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-bones img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+
+    /* Believer */
+.believer{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(56, 167, 158, 0.822);
+    }
+    
+    .believer-audio{
+        width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-believer{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-believer img{
         width: 100px;
         border: 2px solid white;
         border-radius: 5px;

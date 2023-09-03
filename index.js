@@ -90,3 +90,30 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   });
+
+
+   //  Imagine Dragons
+
+   document.addEventListener("DOMContentLoaded", function() {
+
+    var clickableartistimaginedragons = document.querySelectorAll(".artist-imagine-dragons-main");
+  
+    clickableartistimaginedragons.forEach(function(element) {
+      element.addEventListener("click", function() {
+        var linkURL = "https://furtherart.netlify.app/";
+        window.location.href = linkURL;
+      });
+    });
+  }); Click
+
+   document.addEventListener("DOMContentLoaded", function() {
+
+    var clickableartistjubinnautiyal = document.querySelectorAll(".artist-jubin-nautiyal-main");
+  
+    clickableartistjubinnautiyal.forEach(function(element) {
+      element.addEventListener("click", function() {
+        var linkURL = "https://furtherart.netlify.app/";
+        window.location.href = linkURL;
+      });
+    });
+  });
