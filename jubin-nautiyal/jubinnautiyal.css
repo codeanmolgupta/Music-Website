@@ -67,7 +67,7 @@ display: flex;
 
 
 /* faded */
-/* .faded{
+.lut-gaya{
 border: 3px solid white;
 border-radius: 5px;
 margin: 5% 0;
@@ -75,7 +75,7 @@ display: flex;
 background-color: #674056;
 }
 
-.faded-audio{
+.lut-gaya-audio{
     width: 60%;
 border: 5px solid aqua;
 border-radius: 5px;
@@ -83,7 +83,7 @@ display: flex;
 margin: auto;
 }
 
-.text-faded{
+.text-lut-gaya{
     font-size: 30px;
     font-family: 'Amatic SC', cursive;
     color: white;
@@ -95,15 +95,15 @@ margin: auto;
 }
 
 
-.image-faded img{
+.image-lut-gaya img{
     width: 100px;
     border: 2px solid white;
     border-radius: 5px;
     margin: 10px;
-} */
+}
 
-/* The Spectre */
-/* .the_spectre{
+/* Mere Ghar Ram Aaye Hain */
+.mere_ghar_ram_aaye_hain{
     border: 3px solid white;
     border-radius: 5px;
     margin: 5% 0;
@@ -111,7 +111,7 @@ margin: auto;
     background-color: #674056;
     }
     
-    .the_spectre-audio{
+    .mere_ghar_ram_aaye_hain-audio{
         width: 60%;
     border: 5px solid aqua;
     border-radius: 5px;
@@ -119,7 +119,7 @@ margin: auto;
     margin: auto;
     }
     
-    .text-the_spectre{
+    .text-mere_ghar_ram_aaye_hain{
         font-size: 30px;
         font-family: 'Amatic SC', cursive;
         color: white;
@@ -131,12 +131,12 @@ margin: auto;
     }
     
     
-    .image-the_spectre img{
+    .image-mere_ghar_ram_aaye_hain img{
         width: 100px;
         border: 2px solid white;
         border-radius: 5px;
         margin: 10px;
-    } */
+    }
     
 
 /* Alone */
