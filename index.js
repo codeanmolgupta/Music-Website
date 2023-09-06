@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickableartistimaginedragons.forEach(function(element) {
       element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
+        var linkURL = "/imagine-dragons/imaginedragons.html";
         window.location.href = linkURL;
       });
     });
