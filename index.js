@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickableartistarjeetsigh.forEach(function(element) {
       element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
+        var linkURL = "/arijit-singh/arijitsingh.html";
         window.location.href = linkURL;
       });
     });
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickableartisttanishkbagchi.forEach(function(element) {
       element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
+        var linkURL = "/tanishk-bagchi/tanishkbagchi.html";
         window.location.href = linkURL;
       });
     });
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickableartistbpraak.forEach(function(element) {
       element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
+        var linkURL = "/b-praak/bpraak.html";
         window.location.href = linkURL;
       });
     });
@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickableartistjubinnautiyal.forEach(function(element) {
       element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
+        var linkURL = "/jubin-nautiyal/jubinnautiyal.html";
         window.location.href = linkURL;
       });
     });
@@ -117,3 +117,5 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   });
+
+
