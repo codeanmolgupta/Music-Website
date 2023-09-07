@@ -45,7 +45,11 @@ display: flex;
 
 /* Songs */
 .songs{
-    background-color: rgb(0, 0, 48);
+    background-image: url("https://wallpaper.dog/large/10883221.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    /* background-color: rgb(0, 0, 48); */
     padding: 0 4%;
 }
 
@@ -66,7 +70,7 @@ display: flex;
 }
 
 
-/* faded */
+/* Lut Gaya */
 .lut-gaya{
 border: 3px solid white;
 border-radius: 5px;
