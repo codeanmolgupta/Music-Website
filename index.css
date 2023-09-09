@@ -626,7 +626,41 @@ margin: auto;
     }
 
 
+ /* Pal Pal Pil Ke Paas */
+ .pal_pal_dil_ke_paas{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(56, 99, 167, 0.822);
+    }
+    
+    .pal_pal_dil_ke_paas-audio{
+        width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-pal_pal_dil_ke_paas{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
 
+    .image-pal_pal_dil_ke_paas img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
 
     /* Artists */
    .artists{
