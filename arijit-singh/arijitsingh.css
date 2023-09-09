@@ -45,7 +45,11 @@ display: flex;
 
 /* Songs */
 .songs{
-    background-color: rgb(0, 0, 48);
+    /* background-color: rgb(0, 0, 48); */
+    background-image: url("https://wallpaper.dog/large/10883221.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
     padding: 0 4%;
 }
 
@@ -66,8 +70,8 @@ display: flex;
 }
 
 
-/* faded */
-/* .faded{
+/* Tum Hi Ho */
+.tum_hi_ho{
 border: 3px solid white;
 border-radius: 5px;
 margin: 5% 0;
@@ -75,7 +79,7 @@ display: flex;
 background-color: #674056;
 }
 
-.faded-audio{
+.tum_hi_ho-audio{
     width: 60%;
 border: 5px solid aqua;
 border-radius: 5px;
@@ -83,7 +87,7 @@ display: flex;
 margin: auto;
 }
 
-.text-faded{
+.text-tum_hi_ho{
     font-size: 30px;
     font-family: 'Amatic SC', cursive;
     color: white;
@@ -95,15 +99,15 @@ margin: auto;
 }
 
 
-.image-faded img{
+.image-tum_hi_ho img{
     width: 100px;
     border: 2px solid white;
     border-radius: 5px;
     margin: 10px;
-} */
+}
 
-/* The Spectre */
-/* .the_spectre{
+/* Agar Tum Saath Ho */
+.agar_tum_saath_ho{
     border: 3px solid white;
     border-radius: 5px;
     margin: 5% 0;
@@ -111,7 +115,7 @@ margin: auto;
     background-color: #674056;
     }
     
-    .the_spectre-audio{
+    .agar_tum_saath_ho-audio{
         width: 60%;
     border: 5px solid aqua;
     border-radius: 5px;
@@ -119,7 +123,7 @@ margin: auto;
     margin: auto;
     }
     
-    .text-the_spectre{
+    .text-agar_tum_saath_ho{
         font-size: 30px;
         font-family: 'Amatic SC', cursive;
         color: white;
@@ -131,31 +135,31 @@ margin: auto;
     }
     
     
-    .image-the_spectre img{
+    .image-agar_tum_saath_ho img{
         width: 100px;
         border: 2px solid white;
         border-radius: 5px;
         margin: 10px;
-    } */
+    }
     
 
-/* Alone */
-/* .alone{
+/* Ae Dil Hai Mushkil */
+.ae_dil_hai_mushkil{
     border: 3px solid white;
     border-radius: 5px;
     margin: 5% 0;
     display: flex;
-    background-color: #3c6165;
+    background-color: #3a3a6c;
 }
 
-.image-alone img{
+.image-ae_dil_hai_mushkil img{
     width: 100px;
     border: 2px solid white;
     border-radius: 5px;
     margin: 10px;
 }
 
-.alone-audio{
+.ae_dil_hai_mushkil-audio{
     width: 60%;
 border: 5px solid aqua;
 border-radius: 5px;
@@ -163,7 +167,7 @@ display: flex;
 margin: auto;
 }
 
-.text-alone{
+.text-ae_dil_hai_mushkil{
     font-size: 30px;
     font-family: 'Amatic SC', cursive;
     color: white;
@@ -174,11 +178,11 @@ margin: auto;
     display: flex;
     width: 18%;
     margin: 2%;
-} */
+}
 
 
-/* Dark Side */
-/* .dark_side{
+/* Khairiyat */
+.khairiyat{
     border: 3px solid white;
     border-radius: 5px;
     margin: 5% 0;
@@ -186,14 +190,14 @@ margin: auto;
     background-color: #42648a;
 }
 
-.dark_side img{
+.image-khairiyat img{
     width: 100px;
     border: 2px solid white;
     border-radius: 5px;
     margin: 10px;
 }
 
-.dark_side-audio{
+.khairiyat-audio{
     width: 60%;
 border: 5px solid aqua;
 border-radius: 5px;
@@ -201,7 +205,7 @@ display: flex;
 margin: auto;
 }
 
-.text-dark_side{
+.text-khairiyat{
     font-size: 30px;
     font-family: 'Amatic SC', cursive;
     color: white;
@@ -212,25 +216,25 @@ margin: auto;
     display: flex;
     width: 18%;
     margin: 2%;
-} */
+}
 
-/* On My Way */
-/* .on_my_way{
+/* Samjhawan */
+.samjhawan{
     border: 3px solid white;
     border-radius: 5px;
     margin: 5% 0;
     display: flex;
-    background-color: #4d3c65;
+    background-color: #313b76;
 }
 
-.image-on_my_way img{
+.image-samjhawan img{
     width: 100px;
     border: 2px solid white;
     border-radius: 5px;
     margin: 10px;
 }
 
-.on_my_way-audio{
+.samjhawan-audio{
     width: 60%;
 border: 5px solid aqua;
 border-radius: 5px;
@@ -238,7 +242,7 @@ display: flex;
 margin: auto;
 }
 
-.text-on_my_way{
+.text-samjhawan{
     font-size: 30px;
     font-family: 'Amatic SC', cursive;
     color: white;
@@ -250,8 +254,43 @@ margin: auto;
     width: 18%;
     margin: 2%;
 }
- */
 
+/* Hawayein */
+.hawayein{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color: #313b76;
+}
+
+.image-hawayein img{
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.hawayein-audio{
+    width: 60%;
+border: 5px solid aqua;
+border-radius: 5px;
+display: flex;
+margin: auto;
+}
+
+.text-hawayein{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 18%;
+    margin: 2%;
+}
 
  /* Footer */
 
