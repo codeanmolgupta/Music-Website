@@ -104,24 +104,15 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = linkURL;
       });
     });
-  }); Click
-
-   document.addEventListener("DOMContentLoaded", function() {
-
-    var clickableartistjubinnautiyal = document.querySelectorAll(".artist-jubin-nautiyal-main");
-  
-    clickableartistjubinnautiyal.forEach(function(element) {
-      element.addEventListener("click", function() {
-        var linkURL = "https://furtherart.netlify.app/";
-        window.location.href = linkURL;
-      });
-    });
-  });
+  }); 
 
 
-// Website Lock
+
+// //  password lock
+ 
+
 // function checkPassword() {
-//   const correctPassword = 'i eat 2000kg pig'; // Replace with your actual password
+//   const correctPassword = 'iamlallu'; // Replace with your actual password
 
 //   let password;
 //   do {
@@ -152,9 +143,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // setTimeout(() => {
 // let name = prompt("Enter your name");
+// let bhaiya ="✌🏻 Hello, Mukul bhaiya..! , Wellcome to my website.😁"
+// let bhaiyaname = ["mukul"]
 // console.log(name);
 // if(name==name){
-// alert("Wellcome to my website " + name +" This is my first website of my life. Code:Anmol")
+// alert("✌🏻Wellcome to my website " + name +" This is my Second Website. Code:Anmol😁");
+// } 
+// if (name==bhaiyaname) {
+// alert(bhaiya)
 // }
+
 // }, 1000);
+
+
 

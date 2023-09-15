@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-image:url("image/background-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+  /* Code Anmol */
+  .code-anmol{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5% 40px;
+  color: white;
+  text-shadow: 3px 3px 3px #c089f7;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  animation-name: code;
+  animation-duration: 0.001s;
+  animation-iteration-count: infinite;
+  }
+
+  .about-me-para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2% 4px;
+    color: white;
+    text-shadow: 3px 3px 3px #c089f7;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  @keyframes code {
+    from{
+        transform: rotateY(0deg);
+        color: red;
+    }
+
+50%{
+    transform:translateZ(360deg);
+    
+}
+
+
+
+    to{
+        color: white;
+        transform: rotateY(360deg);
+    }
+  }
+  
