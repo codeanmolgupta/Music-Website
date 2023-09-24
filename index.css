@@ -1830,9 +1830,256 @@ margin: auto;
         margin: auto 0;
     }
 
+     /* Bekhayali */
+     .bekhayali-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Kaise Hua */
+     .kaise_hua-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Bum Bum Bole */
+     .bum_bum_bole-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+
+     /* Halki Si Barsaat */
+     .halki_si_barsaat-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Baarish Mein Tum */
+     .baarish_mein-tum-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Maiya Manu */
+     .maiya_manu-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Maan Meri Jaan */
+     .maan_meri_jaan-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Channa Mereya */
+     .channa_mereya-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+     /* Samjhawan */
+     .samjhawan-audio {
+        width: 58%;
+        margin: auto 0;
+    }
   }
 
   @media only screen and (max-width: 420px) {
+
+
+    .song-name-text_sticker{
+        display: none;
+    }
+
+
+    /* Faded */
+    .faded-audio {
+        width:33%;
+        margin: auto 0;
+    }
+
+    /* Alone */
+    .alone-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Bones */
+    .bones-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Daspacito */
+    .daspacito-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Let Me Love You */
+    .lmlu-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Believer */
+    .believer-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Pal Pal Dil Ka Pass */
+    .pal_pal_dil_ke_paas-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Qismat Badalti */
+    .qismat_badalti-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Janam Janam */
+    .janam_janam-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Mann Bharryaa */
+    .mann-bharryaa-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Ranjha */
+    .ranjha-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* desh Mere */
+    .desh_mere-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Teri Mitti */
+    .teri_mitti-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Excuses */
+    .excuses-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Ve Maahi */
+    .ve_maahi-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* PW_JEE_NEET_Motivating */
+    .PW_jee_neet_motivating-song-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Dekhate Dekhate */
+    .dekhate_dekhate-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Vaaste */
+    .vaaste-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Gulabi Aankhen */
+    .gulabi_aankhen-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+    /* Hey Ram Hey Ram */
+    .hey_ram_hey_ram-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+
+     /* Samjhawan */
+     .samjhawan-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Bekhayali */
+     .bekhayali-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Kaise Hua */
+     .kaise_hua-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Bum Bum Bole */
+     .bum_bum_bole-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+
+     /* Halki Si Barsaat */
+     .halki_si_barsaat-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Baarish Mein Tum */
+     .baarish_mein-tum-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Maiya Manu */
+     .maiya_manu-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Maan Meri Jaan */
+     .maan_meri_jaan-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Channa Mereya */
+     .channa_mereya-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+     /* Samjhawan */
+     .samjhawan-audio {
+        width: 33%;
+        margin: auto 0;
+    }
+
+
+
+
+
 
   }
 
