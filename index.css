@@ -109,11 +109,409 @@ body{
  
  @keyframes d {
     from{
-       transform: scale(0);
+       color: rgb(225, 175, 23);
     }
  
+99%{
+    color: #1778f2;
+}
+
+98%{
+    color: #f31a1a;
+}
+
+97%{
+    color: #f24617;
+}
+
+96%{
+    color: #f2a917;
+}
+
+95%{
+    color: #f2e317;
+}
+
+94%{
+    color: #a5f217;
+}
+
+93%{
+    color: #3ff217;
+}
+
+92%{
+    color: #17f27a;
+}
+
+91%{
+    color: #17f2e3;
+}
+
+90%{
+    color: #17f2ee;
+}
+
+89%{
+    color: #17a2f2;
+}
+
+88%{
+    color: #1743f2;
+}
+
+87%{
+    color: #3817f2;
+}
+
+86%{
+    color: #4317f2;
+}
+
+85%{
+    color: #7617f2;
+}
+
+84%{
+    color: #b817f2;
+}
+
+83%{
+    color: #f217f2;
+}
+
+82%{
+    color: #f21788;
+}
+
+81%{
+    color: #eeaf0f;
+}
+
+80%{
+    color: #1764f2;
+}
+
+
+79%{
+    color: #1778f2;
+}
+
+78%{
+    color: #f31a1a;
+}
+
+76%{
+    color: #f24617;
+}
+
+75%{
+    color: #f2a917;
+}
+
+74%{
+    color: #b817f2;
+}
+
+73%{
+    color: #f217f2;
+}
+
+72%{
+    color: #f21788;
+}
+
+71%{
+    color: #1778f2;
+}
+
+70%{
+    color: #f31a1a;
+}
+
+69%{
+    color: #f24617;
+}
+
+68%{
+    color: #f2a917;
+}
+
+67%{
+    color: #f2e317;
+}
+
+66%{
+    color: #a5f217;
+}
+
+65%{
+    color: #3ff217;
+}
+
+64%{
+    color: #17f27a;
+}
+
+63%{
+    color: #17f2e3;
+}
+
+62%{
+    color: #17f2ee;
+}
+
+61%{
+    color: #17a2f2;
+}
+
+60%{
+    color: #1743f2;
+}
+
+59%{
+    color: #3817f2;
+}
+
+58%{
+    color: #4317f2;
+}
+
+57%{
+    color: #7617f2;
+}
+
+56%{
+    color: #b817f2;
+}
+
+55%{
+    color: #f217f2;
+}
+
+54%{
+    color: #f21788;
+}
+
+53%{
+    color: #eeaf0f;
+}
+
+52%{
+    color: #1764f2;
+}
+
+
+51%{
+    color: #1778f2;
+}
+
+50%{
+    color: #1778f2;
+}
+
+49%{
+    color: #f31a1a;
+}
+
+48%{
+    color: #f24617;
+}
+
+47%{
+    color: #f2a917;
+}
+
+46%{
+    color: #f2e317;
+}
+
+45%{
+    color: #a5f217;
+}
+
+44%{
+    color: #3ff217;
+}
+
+43%{
+    color: #17f27a;
+}
+
+42%{
+    color: #17f2e3;
+}
+
+41%{
+    color: #17f2ee;
+}
+
+40%{
+    color: #17a2f2;
+}
+
+39%{
+    color: #1743f2;
+}
+
+38%{
+    color: #3817f2;
+}
+
+37%{
+    color: #4317f2;
+}
+
+36%{
+    color: #7617f2;
+}
+
+35%{
+    color: #b817f2;
+}
+
+34%{
+    color: #f217f2;
+}
+
+33%{
+    color: #f21788;
+}
+
+32%{
+    color: #eeaf0f;
+}
+
+31%{
+    color: #1764f2;
+}
+
+
+30%{
+    color: #1778f2;
+}
+
+29%{
+    color: #f31a1a;
+}
+
+28%{
+    color: #f24617;
+}
+
+27%{
+    color: #f2a917;
+}
+
+26%{
+    color: #b817f2;
+}
+
+25%{
+    color: #f217f2;
+}
+
+24%{
+    color: #f21788;
+}
+
+23%{
+    color: #1778f2;
+}
+
+22%{
+    color: #f31a1a;
+}
+
+21%{
+    color: #f24617;
+}
+
+20%{
+    color: #f2a917;
+}
+
+19%{
+    color: #f2e317;
+}
+
+18%{
+    color: #a5f217;
+}
+
+17%{
+    color: #3ff217;
+}
+
+16%{
+    color: #17f27a;
+}
+
+15%{
+    color: #4e17f2;
+}
+
+14%{
+    color: #1781f2;
+}
+
+13%{
+    color: #17a2f2;
+}
+
+
+12%{
+    color: #17f2ee;
+}
+
+11%{
+    color: #17a2f2;
+}
+
+10%{
+    color: #1743f2;
+}
+
+9%{
+    color: #3817f2;
+}
+
+8%{
+    color: #4317f2;
+}
+
+7%{
+    color: #7617f2;
+}
+
+6%{
+    color: #b817f2;
+}
+
+5%{
+    color: #f217f2;
+}
+
+4%{
+    color: #f21788;
+}
+
+3%{
+    color: #eeaf0f;
+}
+
+2%{
+    color: #1764f2;
+}
+
+
+1%{
+    color: #1778f2;
+}
+
+
     to{
-       transform: scale(1.1);
+       color: rgb(14, 231, 93);
     }
  }
  
@@ -1115,6 +1513,44 @@ margin: auto;
     }
 
 
+
+     /* Illegal Weapon */
+.illegal_weapon{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(56, 99, 167, 0.822);
+    }
+    
+    .illegal_weapon-audio{
+        width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-illegal_weapon{
+        font-size: 30px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-illegal_weapon img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+
      /* Halki Si Barsaat */
 .halki_si_barsaat{
     border: 3px solid white;
@@ -1133,7 +1569,7 @@ margin: auto;
     }
     
     .text-halki_si_barsaat{
-        font-size: 30px;
+        font-size: 29px;
         font-family: 'Amatic SC', cursive;
         color: white;
         align-items: center;
@@ -1151,6 +1587,42 @@ margin: auto;
         margin: 10px;
     }
 
+
+    /* Lehanga */
+.lehanga{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex;
+    background-color:rgba(56, 99, 167, 0.822);
+    }
+    
+    .lehanga-audio{
+        width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    }
+    
+    .text-lehanga{
+        font-size: 29px;
+        font-family: 'Amatic SC', cursive;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        justify-content: center;
+        display: flex;
+        width: 18%;
+        margin: 2%;
+    }
+
+    .image-lehanga img{
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
 
 
     /* Bekhayali */
@@ -1245,6 +1717,9 @@ margin: auto;
         font-size: 60px;
         padding: 1% 3%;
         font-family: 'Just Another Hand', cursive;
+        animation-name: d;
+        animation-duration: 12s;
+        animation-iteration-count: infinite;
     }
 
     /* Justin Beaber */
@@ -1884,6 +2359,24 @@ margin: auto;
         width: 58%;
         margin: auto 0;
     }
+
+    /* Channa Mereya */
+    .channa_mereya-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+    /* Maiya Manu */
+    .maiya_manu-audio {
+        width: 58%;
+        margin: auto 0;
+    }
+
+    /* Lehanga */
+    .lehanga-audio {
+        width: 58%;
+        margin: auto 0;
+    }
   }
 
   @media only screen and (max-width: 420px) {
@@ -1893,6 +2386,8 @@ margin: auto;
         display: none;
     }
 
+
+    
 
     /* Faded */
     .faded-audio {
