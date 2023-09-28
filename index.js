@@ -155,7 +155,3 @@ alert(bhaiya)
 
 }, 1000);
 
-
-
-
-history.back(JSON)
