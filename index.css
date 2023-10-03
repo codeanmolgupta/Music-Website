@@ -1520,6 +1520,157 @@ margin: auto;
 
 
 
+        
+        /* Let Me Down Slowly */
+    .let_me_down_slowly{
+        border: 3px solid white;
+        border-radius: 5px;
+        margin: 5% 0;
+        display: flex;
+        background-color:rgba(58, 101, 175, 0.822);
+        }
+        
+        .let_me_down_slowly-audio{
+            width: 60%;
+        border: 5px solid aqua;
+        border-radius: 5px;
+        display: flex;
+        margin: auto;
+        }
+        
+        .text-let_me_down_slowly{
+            font-size: 30px;
+            font-family: 'Amatic SC', cursive;
+            color: white;
+            align-items: center;
+            justify-content: center;
+            justify-content: center;
+            display: flex;
+            width: 18%;
+            margin: 2%;
+        }
+    
+        .image-let_me_down_slowly img{
+            width: 100px;
+            border: 2px solid white;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+
+         /* Fearless */
+    .fearless{
+        border: 3px solid white;
+        border-radius: 5px;
+        margin: 5% 0;
+        display: flex;
+        background-color:rgba(58, 101, 175, 0.822);
+        }
+        
+        .fearless-audio{
+            width: 60%;
+        border: 5px solid aqua;
+        border-radius: 5px;
+        display: flex;
+        margin: auto;
+        }
+        
+        .text-fearless{
+            font-size: 30px;
+            font-family: 'Amatic SC', cursive;
+            color: white;
+            align-items: center;
+            justify-content: center;
+            justify-content: center;
+            display: flex;
+            width: 18%;
+            margin: 2%;
+        }
+    
+        .image-fearless img{
+            width: 100px;
+            border: 2px solid white;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+
+        
+        /* Photo Luka chuppi */
+    .photo{
+        border: 3px solid white;
+        border-radius: 5px;
+        margin: 5% 0;
+        display: flex;
+        background-color:rgba(58, 101, 175, 0.822);
+        }
+        
+        .photo-audio{
+            width: 60%;
+        border: 5px solid aqua;
+        border-radius: 5px;
+        display: flex;
+        margin: auto;
+        }
+        
+        .text-photo{
+            font-size: 30px;
+            font-family: 'Amatic SC', cursive;
+            color: white;
+            align-items: center;
+            justify-content: center;
+            justify-content: center;
+            display: flex;
+            width: 18%;
+            margin: 2%;
+        }
+    
+        .image-photo img{
+            width: 100px;
+            border: 2px solid white;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+
+         /* Duniyaa Luka Chuppi */
+    .duniyaa{
+        border: 3px solid white;
+        border-radius: 5px;
+        margin: 5% 0;
+        display: flex;
+        background-color:rgba(58, 101, 175, 0.822);
+        }
+        
+        .duniyaa-audio{
+            width: 60%;
+        border: 5px solid aqua;
+        border-radius: 5px;
+        display: flex;
+        margin: auto;
+        }
+        
+        .text-duniyaa{
+            font-size: 30px;
+            font-family: 'Amatic SC', cursive;
+            color: white;
+            align-items: center;
+            justify-content: center;
+            justify-content: center;
+            display: flex;
+            width: 18%;
+            margin: 2%;
+        }
+    
+        .image-duniyaa img{
+            width: 100px;
+            border: 2px solid white;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+
+
 
 
 
