@@ -2554,7 +2554,7 @@ margin: auto;
 /* scroll Up Button */
 
 .scroll_top{
-        background-color:rgb(255, 111, 0);
+        background: linear-gradient(#e66465, #9198e5);
         position: fixed;
         right: 15px;
         bottom: 15px;
@@ -2563,9 +2563,7 @@ margin: auto;
         border-radius: 4px;
         transition: all 0.4s;
         opacity: 0.9;
-        animation-name: scroll_up-animation;
-        animation-duration: 12s;
-        animation-iteration-count: infinite;
+
 }
 
 .scroll_top:hover{
@@ -2577,7 +2575,7 @@ margin: auto;
 }
 
 
-@keyframes scroll_up-animation {
+@keyframes background-animation {
     from{
        background-color: rgb(225, 175, 23);
     }
