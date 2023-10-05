@@ -2551,6 +2551,446 @@ margin: auto;
 
 
 
+/* scroll Up Button */
+
+.scroll_top{
+        background-color:rgb(255, 111, 0);
+        position: fixed;
+        right: 15px;
+        bottom: 15px;
+        z-index: 99999;
+        padding: 12px 18px;
+        border-radius: 4px;
+        transition: all 0.4s;
+        opacity: 0.9;
+        animation-name: scroll_up-animation;
+        animation-duration: 12s;
+        animation-iteration-count: infinite;
+}
+
+.scroll_top:hover{
+    opacity: 0.6;
+}
+
+.scroll_up-arrow_sign{
+    color: white;
+}
+
+
+@keyframes scroll_up-animation {
+    from{
+       background-color: rgb(225, 175, 23);
+    }
+  
+  99%{
+    background-color: #1778f2;
+  }
+  
+  98%{
+    background-color: #f31a1a;
+  }
+  
+  97%{
+    background-color: #f24617;
+  }
+  
+  96%{
+    background-color: #f2a917;
+  }
+  
+  95%{
+    background-color: #f2e317;
+  }
+  
+  94%{
+    background-color: #a5f217;
+  }
+  
+  93%{
+    background-color: #3ff217;
+  }
+  
+  92%{
+    background-color: #17f27a;
+  }
+  
+  91%{
+    background-color: #17f2e3;
+  }
+  
+  90%{
+    background-color: #17f2ee;
+  }
+  
+  89%{
+    background-color: #17a2f2;
+  }
+  
+  88%{
+    background-color: #1743f2;
+  }
+  
+  87%{
+    background-color: #3817f2;
+  }
+  
+  86%{
+    background-color: #4317f2;
+  }
+  
+  85%{
+    background-color: #7617f2;
+  }
+  
+  84%{
+    background-color: #b817f2;
+  }
+  
+  83%{
+    background-color: #f217f2;
+  }
+  
+  82%{
+    background-color: #f21788;
+  }
+  
+  81%{
+    background-color: #eeaf0f;
+  }
+  
+  80%{
+    background-color: #1764f2;
+  }
+  
+  
+  79%{
+    background-color: #1778f2;
+  }
+  
+  78%{
+    background-color: #f31a1a;
+  }
+  
+  76%{
+    background-color: #f24617;
+  }
+  
+  75%{
+    background-color: #f2a917;
+  }
+  
+  74%{
+    background-color: #b817f2;
+  }
+  
+  73%{
+    background-color: #f217f2;
+  }
+  
+  72%{
+    background-color: #f21788;
+  }
+  
+  71%{
+    background-color: #1778f2;
+  }
+  
+  70%{
+    background-color: #f31a1a;
+  }
+  
+  69%{
+    background-color: #f24617;
+  }
+  
+  68%{
+    background-color: #f2a917;
+  }
+  
+  67%{
+    background-color: #f2e317;
+  }
+  
+  66%{
+    background-color: #a5f217;
+  }
+  
+  65%{
+    background-color: #3ff217;
+  }
+  
+  64%{
+    background-color: #17f27a;
+  }
+  
+  63%{
+    background-color: #17f2e3;
+  }
+  
+  62%{
+    background-color: #17f2ee;
+  }
+  
+  61%{
+    background-color: #17a2f2;
+  }
+  
+  60%{
+    background-color: #1743f2;
+  }
+  
+  59%{
+    background-color: #3817f2;
+  }
+  
+  58%{
+    background-color: #4317f2;
+  }
+  
+  57%{
+    background-color: #7617f2;
+  }
+  
+  56%{
+    background-color: #b817f2;
+  }
+  
+  55%{
+    background-color: #f217f2;
+  }
+  
+  54%{
+    background-color: #f21788;
+  }
+  
+  53%{
+    background-color: #eeaf0f;
+  }
+  
+  52%{
+    background-color: #1764f2;
+  }
+  
+  
+  51%{
+    background-color: #1778f2;
+  }
+  
+  50%{
+    background-color: #1778f2;
+  }
+  
+  49%{
+    background-color: #f31a1a;
+  }
+  
+  48%{
+    background-color: #f24617;
+  }
+  
+  47%{
+    background-color: #f2a917;
+  }
+  
+  46%{
+    background-color: #f2e317;
+  }
+  
+  45%{
+    background-color: #a5f217;
+  }
+  
+  44%{
+    background-color: #3ff217;
+  }
+  
+  43%{
+    background-color: #17f27a;
+  }
+  
+  42%{
+    background-color: #17f2e3;
+  }
+  
+  41%{
+    background-color: #17f2ee;
+  }
+  
+  40%{
+    background-color: #17a2f2;
+  }
+  
+  39%{
+    background-color: #1743f2;
+  }
+  
+  38%{
+    background-color: #3817f2;
+  }
+  
+  37%{
+    background-color: #4317f2;
+  }
+  
+  36%{
+    background-color: #7617f2;
+  }
+  
+  35%{
+    background-color: #b817f2;
+  }
+  
+  34%{
+    background-color: #f217f2;
+  }
+  
+  33%{
+    background-color: #f21788;
+  }
+  
+  32%{
+    background-color: #eeaf0f;
+  }
+  
+  31%{
+    background-color: #1764f2;
+  }
+  
+  
+  30%{
+    background-color: #1778f2;
+  }
+  
+  29%{
+    background-color: #f31a1a;
+  }
+  
+  28%{
+    background-color: #f24617;
+  }
+  
+  27%{
+    background-color: #f2a917;
+  }
+  
+  26%{
+    background-color: #b817f2;
+  }
+  
+  25%{
+    background-color: #f217f2;
+  }
+  
+  24%{
+    background-color: #f21788;
+  }
+  
+  23%{
+    background-color: #1778f2;
+  }
+  
+  22%{
+    background-color: #f31a1a;
+  }
+  
+  21%{
+    background-color: #f24617;
+  }
+  
+  20%{
+    background-color: #f2a917;
+  }
+  
+  19%{
+    background-color: #f2e317;
+  }
+  
+  18%{
+    background-color: #a5f217;
+  }
+  
+  17%{
+    background-color: #3ff217;
+  }
+  
+  16%{
+    background-color: #17f27a;
+  }
+  
+  15%{
+    background-color: #4e17f2;
+  }
+  
+  14%{
+    background-color: #1781f2;
+  }
+  
+  13%{
+    background-color: #17a2f2;
+  }
+  
+  
+  12%{
+    background-color: #17f2ee;
+  }
+  
+  11%{
+    background-color: #17a2f2;
+  }
+  
+  10%{
+    background-color: #1743f2;
+  }
+  
+  9%{
+    background-color: #3817f2;
+  }
+  
+  8%{
+    background-color: #4317f2;
+  }
+  
+  7%{
+    background-color: #7617f2;
+  }
+  
+  6%{
+    background-color: #b817f2;
+  }
+  
+  5%{
+    background-color: #f217f2;
+  }
+  
+  4%{
+    background-color: #f21788;
+  }
+  
+  3%{
+    background-color: #eeaf0f;
+  }
+  
+  2%{
+    background-color: #1764f2;
+  }
+  
+  
+  1%{
+    background-color: #1778f2;
+  }
+  
+  
+    to{
+       background-color: rgb(14, 231, 93);
+    }
+  }
+
+
+
+
+
+
+
     /* Footer */
 
 
