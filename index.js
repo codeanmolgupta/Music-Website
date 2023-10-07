@@ -147,7 +147,7 @@ let bhaiya ="✌🏻 Hello, Mukul bhaiya..! , Wellcome to my website.😁"
 let bhaiyaname = ["mukul"]
 console.log(name);
 if(name==name){
-alert("✌🏻Wellcome to my website " + name +" This is my Second Website. Code:Anmol😁");
+alert("✌🏻Wellcome to my website " + name +" This is my Second Website. Code:Anmol Gupta😁");
 } 
 if (name==bhaiyaname) {
 alert(bhaiya)
