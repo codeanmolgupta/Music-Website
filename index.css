@@ -3962,6 +3962,29 @@ font-weight: bolder;
   @media only screen and (max-width: 420px) {
 
 
+    /* Sliding Code Anmol */
+  .sliding-code_anmol{
+    bottom: 845px;
+  }
+
+  /* Sliding Code Anmol Responsive Animation */
+
+  @keyframes sliding-code_anmol-animation {
+    from{
+     bottom: 845px;
+    }
+
+50%{
+    bottom: 700px;
+}
+
+    to{
+     bottom: 845px;
+    }
+}
+
+
+
     .song-name-text_sticker{
         display: none;
     }
