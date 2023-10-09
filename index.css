@@ -19,9 +19,9 @@ body{
 
   /* Nav Bar */
   
-  .navbar ul li a{
+  /* .navbar ul li a{
 
-  }
+  } */
 
 
 
@@ -3328,9 +3328,9 @@ font-weight: bolder;
 }
 
 
- /* Sliding Code Anmol Responsive Animation */
+/* Sliding Code Anmol Responsive Animation */
 
- /* @keyframes sliding-code_anmol-respornsive_animation {
+@keyframes sliding-code_anmol-respornsive_animation {
     from{
      bottom: 845px;
     }
@@ -3342,7 +3342,7 @@ font-weight: bolder;
     to{
      bottom: 845px;
     }
-} */
+}
 
 
 
@@ -3980,13 +3980,13 @@ font-weight: bolder;
 
 
     /* Sliding Code Anmol */
-  /* .sliding-code_anmol{
+  .sliding-code_anmol{
     bottom: 845px;
-    animation-name:sliding-code_anmol-respornsive_animation;
-  } */
-
- 
-
+    animation-name: sliding-code_anmol-respornsive_animation;
+    animation-delay: 6s;
+    animation-duration: 6s;
+    animation-iteration-count: 1s;
+  }
 
 
     .song-name-text_sticker{
