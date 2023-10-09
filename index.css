@@ -3328,6 +3328,22 @@ font-weight: bolder;
 }
 
 
+ /* Sliding Code Anmol Responsive Animation */
+
+ /* @keyframes sliding-code_anmol-respornsive_animation {
+    from{
+     bottom: 845px;
+    }
+
+50%{
+    bottom: 700px;
+}
+
+    to{
+     bottom: 845px;
+    }
+} */
+
 
 
     /* Footer */
@@ -3962,6 +3978,12 @@ font-weight: bolder;
 
   @media only screen and (max-width: 420px) {
 
+
+    /* Sliding Code Anmol */
+  /* .sliding-code_anmol{
+    bottom: 845px;
+    animation-name:sliding-code_anmol-respornsive_animation;
+  } */
 
  
 
