@@ -3983,9 +3983,6 @@ font-weight: bolder;
   .sliding-code_anmol{
     bottom: 845px;
     animation-name: sliding-code_anmol-respornsive_animation;
-    animation-delay: 6s;
-    animation-duration: 6s;
-    animation-iteration-count: 1s;
   }
 
 
