@@ -3330,7 +3330,7 @@ font-weight: bolder;
 
 /* Sliding Code Anmol Responsive Animation */
 
-/* @keyframes sliding-code_anmol-respornsive_animation {
+@keyframes sliding-code_anmol-respornsive_animation {
     from{
      bottom: 845px;
     }
@@ -3342,7 +3342,7 @@ font-weight: bolder;
     to{
      bottom: 845px;
     }
-} */
+}
 
 
 
@@ -3980,10 +3980,10 @@ font-weight: bolder;
 
 
     /* Sliding Code Anmol */
-  /* .sliding-code_anmol{
+  .sliding-code_anmol{
     bottom: 845px;
     animation-name: sliding-code_anmol-respornsive_animation;
-  } */
+  }
 
 
     .song-name-text_sticker{
