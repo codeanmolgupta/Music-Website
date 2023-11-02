@@ -530,6 +530,14 @@ body{
     padding: 0 4%;
 }
 
+/* All Songs Box Shadow   */
+.songs_box_shadow:hover{
+    box-shadow: 3px 3px 30px #0af0c5;
+    transition: 0.5s;
+}
+
+
+
 /* song smain Recommended heading */
 .song-Recommended-heading{
     font-family: 'Amatic SC', cursive;
@@ -2988,6 +2996,24 @@ margin: auto;
     color: white;
 }
 
+
+/* Scroll Top Button Animation */
+
+@keyframes scroll_top_button_animation {
+    
+from{
+top: 2%;
+}
+
+50%{
+bottom: 2%;
+}
+
+to{
+top: 2%;
+}
+
+}
 
 
 
