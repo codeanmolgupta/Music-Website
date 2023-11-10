@@ -111,28 +111,28 @@ document.addEventListener("DOMContentLoaded", function() {
 //  password lock
  
 
-function checkPassword() {
-  const correctPassword = 'iamlallu'; // Replace with your actual password
+// function checkPassword() {
+//   const correctPassword = 'iamlallu'; // Replace with your actual password
 
-  let password;
-  do {
-      password = prompt('Enter the password:🔑');
+//   let password;
+//   do {
+//       password = prompt('Enter the password:🔑');
       
-      if (password === correctPassword) {
-          // Show the protected content
-          document.getElementById('passwordForm').style.display = 'none';
-          document.getElementById('content').style.display = 'block';
-          break; // Exit the loop if the correct password is entered
-      } else if (password === null) {
-          // The user clicked "Cancel" in the prompt
-          break; // Exit the loop if the user cancels
-      } else {
-          alert('Incorrect password. Please try again.😅');
-      }
-  } while (true);
-}
+//       if (password === correctPassword) {
+//           // Show the protected content
+//           document.getElementById('passwordForm').style.display = 'none';
+//           document.getElementById('content').style.display = 'block';
+//           break; // Exit the loop if the correct password is entered
+//       } else if (password === null) {
+//           // The user clicked "Cancel" in the prompt
+//           break; // Exit the loop if the user cancels
+//       } else {
+//           alert('Incorrect password. Please try again.😅');
+//       }
+//   } while (true);
+// }
 
-checkPassword(); // Call the function when the page loads to prompt for the password
+// checkPassword(); // Call the function when the page loads to prompt for the password
 
 
 
