@@ -460,3 +460,105 @@ align-items: center;
 justify-content: center;
 margin: 0 60px;
 }
+
+
+
+
+
+
+  /* Responsive */
+
+  @media only screen and (max-width: 1140px) {
+    .logo-image img {
+        width: 16rem;
+    }
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .h1-hello {
+        font-size: 2.5rem;
+    }
+
+    .logo-image img {
+        width: 13.8rem;
+      }
+  }
+
+  @media only screen and (max-width: 860px) {
+   
+
+
+/* Faded */
+.faded-audio {
+    width: 58%;
+    margin: auto;
+}
+
+/* Alone */
+.alone-audio {
+    width: 58%;
+    margin: auto;
+}
+
+/* The Spectre */
+.the_spectre-audio {
+    width: 58%;
+    margin: auto;
+}
+
+/* Dark Side */
+.dark_side-audio {
+    width: 58%;
+    margin: auto;
+}
+
+/* On My Way */
+.on_my_way-audio {
+    width: 58%;
+    margin: auto;
+}
+
+
+  }
+
+  @media only screen and (max-width: 420px) {
+
+    /* Song Name Text Sticker */
+.song-name-text_sticker{
+display: none;
+}
+
+
+/* Faded */
+.faded-audio {
+    width:33%;
+    margin: auto 0;
+}
+
+/* Alone */
+.alone-audio {
+    width:33%;
+    margin: auto 0;
+}
+
+/* The Spectre */
+.the_spectre-audio {
+    width:33%;
+    margin: auto 0;
+}
+
+/* Dark Side */
+.dark_side-audio {
+    width:33%;
+    margin: auto 0;
+}
+
+/* On My Way */
+.on_my_way-audio {
+    width:33%;
+    margin: auto 0;
+}
+
+  }
+
+  
