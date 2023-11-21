@@ -141,17 +141,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-setTimeout(() => {
-let name = prompt("Enter your name");
-let bhaiya ="✌🏻 Hello, Mukul bhaiya..! , Wellcome to my website.😁"
-let bhaiyaname = ["mukul"]
-console.log(name);
-if(name==name){
-alert("✌🏻Wellcome to my website " + name +" This is my Second Website. Code:Anmol Gupta😁");
-} 
-if (name==bhaiyaname) {
-alert(bhaiya)
-}
+// setTimeout(() => {
+// let name = prompt("Enter your name");
+// let bhaiya ="✌🏻 Hello, Mukul bhaiya..! , Wellcome to my website.😁"
+// let bhaiyaname = ["mukul"]
+// console.log(name);
+// if(name==name){
+// alert("✌🏻Wellcome to my website " + name +" This is my Second Website. Code:Anmol Gupta😁");
+// } 
+// if (name==bhaiyaname) {
+// alert(bhaiya)
+// }
 
-}, 1000);
+// }, 1000);
 
