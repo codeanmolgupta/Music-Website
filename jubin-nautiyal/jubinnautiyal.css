@@ -570,53 +570,43 @@ margin: 0 60px;
 display: none;
 }
 
-/* Tum Hi Ho */
-.tum_hi_ho-audio {
-    width:33%;
+/* Lut Gaya */
+.lut-gaya-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Pal Pal Dil Ke Paas */
-.pal_pal_dil_ke_paas-audio {
-    width:33%;
+/* Raatan Lambiyan */
+.raatan_lambiyan-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Samjhawan */
-.samjhawan-audio {
-    width:33%;
+/* Rim Jhim */
+.rim_jhim-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Agar Tum Saath Ho */
-.agar_tum_saath_ho-audio {
-    width:33%;
+
+/* Mere Ghar Ram Aaye Hain */
+.mere_ghar_ram_aaye_hain-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Ae Dil Hai Mushkil */
-.ae_dil_hai_mushkil-audio {
-    width:33%;
+/*  Meri Maa Ke Barabar Koi Nahi  */
+.meri_maa_ke_barabar_koi_nahi-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Khairiyat */
-.khairiyat-audio {
-    width:33%;
+/* Main Balak Tu Mata */
+.main_balak_tu_mata-audio {
+    width: 33%;
     margin: auto;
 }
 
-/* Kesariya */
-.kesariya-audio {
-    width:33%;
-    margin: auto;
-}
-
-/* hawayein */
-.Hawayein-audio {
-    width:33%;
-    margin: auto;
-}
 
   }
 
