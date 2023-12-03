@@ -3823,16 +3823,18 @@ font-weight: bolder;
   @media only screen and (max-width: 860px) {
    
     .h1-hello {
-        font-size: 2.2rem;
-        font-size: 34px;
+        /* font-size: 2.2rem; */
+        font-size: 18px;
       }
 
       .logo-image img {
-        width: 13.2rem;
+        /* width: 13.2rem; */
+        width: 9.2rem;
       }
 
       .about-me .h1-about-me {
-        font-size: 27px;
+        /* font-size: 27px; */
+        font-size: 17px;
       }
 
 
