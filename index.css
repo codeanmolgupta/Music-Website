@@ -530,8 +530,9 @@ body{
 
 /* All Songs Box Shadow   */
 .songs_box_shadow:hover{
-    box-shadow: 3px 3px 30px #0af0c5;
-    transition: 0.5s;
+    box-shadow: 3px 3px 30px #ffffff;
+    transition: 0.7s;
+    padding: 0.5% 0.5%;
 }
 
 
@@ -555,7 +556,7 @@ body{
 
 
 
-/* Mind Relax Lofi Songs */
+/* bINAURAL BEATS */
 .binaural_Beats{
     border: 3px solid white;
     border-radius: 5px;
