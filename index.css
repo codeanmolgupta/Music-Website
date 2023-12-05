@@ -3069,9 +3069,6 @@ margin: auto;
     background-image: url("");
 }
 
-.about_website_code-main{
-
-}
 
 .about_website_code-logo_image{
     width: fit-content;
@@ -3636,9 +3633,10 @@ font-weight: bolder;
 
 
 /* footer-responsive-icons-main */
-.footer-responsive-icons-main-box{
+/* .footer-responsive-icons-main-box{
    
-  }
+  } */
+  
   
   /* Icons */
   
