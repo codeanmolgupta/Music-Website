@@ -530,11 +530,9 @@ body{
 
 /* All Songs Box Shadow   */
 .songs_box_shadow:hover{
-    box-shadow: 3px 3px 30px #ffffff;
+    box-shadow: 3px 3px 30px #d98e8e;
     transition: 0.5s;
 }
-
-
 
 /* songs main Recommended heading */
 .song-Recommended-heading{
@@ -544,7 +542,7 @@ body{
     color: white;
     padding:2% 0 ;
     width:fit-content;
-    text-shadow: 5px 5px 5px rgb(223, 142, 142);
+    text-shadow: 5px 5px 5px white;
 }
 
 .song-Recommended-heading:hover{
