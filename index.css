@@ -544,7 +544,7 @@ body{
     color: white;
     padding:2% 0 ;
     width:fit-content;
-    text-shadow: 5px 5px 5px white;
+    text-shadow: 5px 5px 5px rgb(223, 142, 142);
 }
 
 .song-Recommended-heading:hover{
