@@ -2935,6 +2935,7 @@ margin: auto;
     border-radius: 100px;
 }
 
+
 .artist-imagine-dragons-text{
     color: white;
     font-size: 25px;
@@ -4302,6 +4303,48 @@ font-weight: bolder;
     bottom: 845px;
     animation-name: sliding-code_anmol-respornsive_animation;
   }
+
+
+  /* Artist Respornsive CSS */
+
+  .text-Artist {
+    font-size: 45px;
+  }
+
+
+  .artist-justin-beaber-image img{
+    width:155px;
+}
+
+
+.artist-alan-walkar-image img{
+    width:155px;
+}
+
+
+.artist-imagine-dragons-image img{
+    width:155px;
+}
+
+.artist-arjeet-sigh-image img{
+    width:155px;
+}
+
+.artist-tanishk-bagchi-image img{
+    width:155px;
+}
+
+
+.artist-b-praak-image img{
+    width:155px;
+}
+
+.artist-jubin-nautiyal-image img{
+    width:155px;
+}
+
+
+
 
   /* Song Name Text Sticker */
     .song-name-text_sticker{
