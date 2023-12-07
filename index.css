@@ -531,13 +531,12 @@ body{
 /* All Songs Box Shadow   */
 .songs_box_shadow:hover{
     box-shadow: 3px 3px 30px #ffffff;
-    transition: 0.7s;
-    padding: 0.5% 0.5%;
+    transition: 0.5s;
 }
 
 
 
-/* song smain Recommended heading */
+/* songs main Recommended heading */
 .song-Recommended-heading{
     font-family: 'Amatic SC', cursive;
     font-size: 160%;
