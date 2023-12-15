@@ -82,158 +82,70 @@ display: flex;
     text-decoration: underline;
 }
 
-/* Stay */
-.stay{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
-    background-color: #a7637c;
-    }
-    
-    .stay-audio{
-        width: 60%;
+
+
+/* Songs Image, Size, Songs_Audio-Controls CSS  */
+
+/* Songs Audio Controls */
+.song_audio-controls{
+    width: 60%;
     border: 5px solid aqua;
     border-radius: 5px;
     display: flex;
     margin: auto;
-    }
-    
-    .text-stay{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-     
-    }
+}
 
-    .image-stay img{
-        width: 100px;
+/* Songs Main Div CSS */
+.song_main-div{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex; 
+}
+
+/* Songs Image CSS */
+.song_related-image img{
+    width: 100px;
         border: 2px solid white;
         border-radius: 5px;
         margin: 10px;
+}
+
+/* Songs Name Text */
+.song-name{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 18%;
+    margin: 2%;
+}
+
+/* Stay */
+.stay{
+    background-color: #a7637c;
     }
-    
 
 
 /* Daspacito */
 .daspacito{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #917e5c;
     }
     
-    .daspacito-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-daspacito{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-daspacito img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-    
-
     
 /* Let Me Love You */
 .lmlu{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #5f8059;
     }
     
-    .lmlu-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-lmlu{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-lmlu img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Never Stay Never */
 .never-stay-never{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #5f8059;
     }
     
-    .never-stay-never-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-never-stay-never{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-never-stay-never img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
  /* Footer */
 
@@ -447,61 +359,36 @@ margin: 0 60px;
   /* Responsive */
 
   @media only screen and (max-width: 1140px) {
-    .logo-image img {
-        width: 16rem;
-    }
+
   }
 
   @media only screen and (max-width: 1000px) {
-    .h1-hello {
-        font-size: 2.5rem;
-    }
 
-    .logo-image img {
-        width: 13.8rem;
-      }
   }
 
   @media only screen and (max-width: 860px) {
 
-/* Daspacito */
-.daspacito-audio {
+.song_audio-controls{
     width: 58%;
     margin: auto;
 }
-
-/* Let Me Love You */
-.lmlu-audio {
-    width: 58%;
-    margin: auto;
-}
-
-/* Stay */
-.stay-audio {
-    width: 58%;
-    margin: auto;
-}
-
-
-/* Never Stay Never */
-.never-stay-never-audio {
-    width: 58%;
-    margin: auto;
-}
-
 
 
   }
 
   @media only screen and (max-width: 420px) {
+    .text-footer a{
+        font-size: 18px;
+    }    
 
     /* Song Name Text Sticker */
 .song-name-text_sticker{
 display: none;
 }
 
-
-
+.song-Recommended-heading {
+    font-size: 99%;
+    }
 
 
 /* About Artist */
@@ -518,38 +405,34 @@ display: none;
 
 /* Song */
 
-.responsive_song-text{
+.song-name{
     font-size: 25px;
 }
 
 
 
-/* Daspacito */
-.daspacito-audio {
-    width: 33%;
-    margin: auto;
-}
 
-/* Let Me Love You */
-.lmlu-audio {
-    width: 33%;
-    margin: auto;
-}
+    /* Song respornsive text */
 
-/* Stay */
-.stay-audio {
-    width: 33%;
-    margin: auto;
-}
+    .song-name{
+        font-size: 20px;
+    }
+    
+    
+    
+    /* Song respornsive image */
+    
+    .song_related-image img{
+        width: 75px;
+    }
+    
+    
+    
+    /* Songs Audio width Respornsive */
+    
+         .song_audio-controls{
+            width: 40%;
+         }
+    
+      }
 
-
-/* Never Stay Never */
-.never-stay-never-audio {
-    width: 33%;
-    margin: auto;
-}
-
-
-  }
-
-  

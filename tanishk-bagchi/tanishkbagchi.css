@@ -66,191 +66,60 @@ display: flex;
 }
 
 
-/* faded */
-/* .faded{
-border: 3px solid white;
-border-radius: 5px;
-margin: 5% 0;
-display: flex;
-background-color: #674056;
-}
 
-.faded-audio{
+/* Songs Image, Size, Songs_Audio-Controls CSS  */
+
+/* Songs Audio Controls */
+.song_audio-controls{
     width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-faded{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-}
-
-
-.image-faded img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-} */
-
-/* The Spectre */
-/* .the_spectre{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
-    background-color: #674056;
-    }
-    
-    .the_spectre-audio{
-        width: 60%;
     border: 5px solid aqua;
     border-radius: 5px;
     display: flex;
     margin: auto;
-    }
-    
-    .text-the_spectre{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-    
-    
-    .image-the_spectre img{
-        width: 100px;
+}
+
+/* Songs Main Div CSS */
+.song_main-div{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex; 
+}
+
+/* Songs Image CSS */
+.song_related-image img{
+    width: 100px;
         border: 2px solid white;
         border-radius: 5px;
         margin: 10px;
+}
+
+/* Songs Name Text */
+.song-name{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 18%;
+    margin: 2%;
+}
+
+/* Background Color  */
+
+/* Daspacito */
+/* .daspacito{
+    background-color: #917e5c;
     } */
     
-
-/* Alone */
-/* .alone{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
-    background-color: #3c6165;
-}
-
-.image-alone img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
-
-.alone-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-alone{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-} */
+    
 
 
-/* Dark Side */
-/* .dark_side{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
-    background-color: #42648a;
-}
 
-.dark_side img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
 
-.dark_side-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
 
-.text-dark_side{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-} */
 
-/* On My Way */
-/* .on_my_way{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
-    background-color: #4d3c65;
-}
-
-.image-on_my_way img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
-
-.on_my_way-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-on_my_way{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-}
- */
 
 
  /* Footer */
@@ -460,3 +329,82 @@ align-items: center;
 justify-content: center;
 margin: 0 60px;
 }
+
+  /* Responsive */
+
+  @media only screen and (max-width: 1140px) {
+
+  }
+
+  @media only screen and (max-width: 1000px) {
+
+  }
+
+  @media only screen and (max-width: 860px) {
+
+.song_audio-controls{
+    width: 58%;
+    margin: auto;
+}
+
+
+  }
+
+  @media only screen and (max-width: 420px) {
+    .text-footer a{
+        font-size: 18px;
+    }    
+
+
+    /* Song Name Text Sticker */
+.song-name-text_sticker{
+display: none;
+}
+
+.song-Recommended-heading {
+    font-size: 99%;
+    }
+
+
+/* About Artist */
+
+.artist-image-name img {
+    width: 150px;
+    height: 150px;
+}
+
+.artist-name {
+    font-size: 24px;
+}
+
+
+/* Song */
+
+.song-name{
+    font-size: 25px;
+}
+
+
+    /* Song respornsive text */
+
+    .song-name{
+        font-size: 20px;
+    }
+    
+    
+    
+    /* Song respornsive image */
+    
+    .song_related-image img{
+        width: 75px;
+    }
+    
+    
+    
+    /* Songs Audio width Respornsive */
+    
+         .song_audio-controls{
+            width: 40%;
+         }
+    
+      }

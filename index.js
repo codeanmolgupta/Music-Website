@@ -1,7 +1,7 @@
 //  Justin Beaber Click
 
 document.addEventListener("DOMContentLoaded", function() {
-    var clickableartistjustinbeaber = document.querySelectorAll(".artist-justin-beaber-main");
+    var clickableartistjustinbeaber = document.querySelectorAll(".justin_beaber-main-div");
   
     clickableartistjustinbeaber.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartistalanwalkar = document.querySelectorAll(".artist-alan-walkar-main");
+    var clickableartistalanwalkar = document.querySelectorAll(".alen_walkar-main-div");
   
     clickableartistalanwalkar.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartistarjeetsigh = document.querySelectorAll(".artist-arjeet-sigh-main");
+    var clickableartistarjeetsigh = document.querySelectorAll(".arijit-singh-main-div");
   
     clickableartistarjeetsigh.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartisttanishkbagchi = document.querySelectorAll(".artist-tanishk-bagchi-main");
+    var clickableartisttanishkbagchi = document.querySelectorAll(".tanishk-bagchi-main-div");
   
     clickableartisttanishkbagchi.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartistbpraak = document.querySelectorAll(".artist-b-praak-main");
+    var clickableartistbpraak = document.querySelectorAll(".b-praak-main-div");
   
     clickableartistbpraak.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartistjubinnautiyal = document.querySelectorAll(".artist-jubin-nautiyal-main");
+    var clickableartistjubinnautiyal = document.querySelectorAll(".jubin-nautiyal-main-div");
   
     clickableartistjubinnautiyal.forEach(function(element) {
       element.addEventListener("click", function() {
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    document.addEventListener("DOMContentLoaded", function() {
 
-    var clickableartistimaginedragons = document.querySelectorAll(".artist-imagine-dragons-main");
+    var clickableartistimaginedragons = document.querySelectorAll(".imagine-dragons-main-div");
   
     clickableartistimaginedragons.forEach(function(element) {
       element.addEventListener("click", function() {

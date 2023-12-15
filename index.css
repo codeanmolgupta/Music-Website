@@ -551,2290 +551,453 @@ body{
     text-decoration: underline;
 }
 
+/* Songs Image, Size, Songs_Audio-Controls CSS  */
+
+/* Songs Audio Controls */
+.song_audio-controls{
+    width: 60%;
+    border: 5px solid aqua;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+}
+
+/* Songs Main Div CSS */
+.song_main-div{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 5% 0;
+    display: flex; 
+}
+
+/* Songs Image CSS */
+.song_related-image img{
+    width: 100px;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 10px;
+}
+
+/* Songs Name Text */
+.song-name{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 18%;
+    margin: 2%;
+}
 
 
 /* bINAURAL BEATS */
 .binaural_Beats{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #674056;
     }
     
-    
-    
-    .binaural_Beats-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-binaural_Beats{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-    
-    
-    .image-binaural_Beats img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 /* Mind Relax Lofi Songs */
 .mind-relaxing-lofi{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #674056;
     }
     
     
-    
-    .mind-relaxing-lofi-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-mind-relaxing-lofi{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-    
-    
-    .image-mind-relaxing-lofi img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 /* faded */
 .faded{
-border: 3px solid white;
-border-radius: 5px;
-margin: 5% 0;
-display: flex;
 background-color: #674056;
 }
 
 
 
-.faded-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-faded{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-}
-
-
-.image-faded img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
-
 
 
 /* Alone */
 .alone{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #3c6165;
 }
 
-.image-alone img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
-
-.alone-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-alone{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
-}
 
 /* Daspacito */
 .daspacito{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #917e5c;
     }
     
-    .daspacito-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-daspacito{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-daspacito img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
     
 
     
 /* Let Me Love You */
 .lmlu{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #5f8059;
     }
     
-    .lmlu-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-lmlu{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-        
-    }
-
-    .image-lmlu img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Mann Bharryaa */
 .mann-bharryaa{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(64, 145, 183, 0.822);
     }
     
-    .mann-bharryaa-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-mann-bharryaa{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-mann-bharryaa img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Ranjha */
 .ranjha{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 167, 109, 0.822);
     }
     
-    .ranjha-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-ranjha{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-ranjha img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 /* Desh Mere */
 .desh_mere{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(139, 91, 65, 0.82);
     }
     
-    .desh_mere-audio{
-    width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-desh_mere{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-desh_mere img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
  /* Qismat Badalti */
  .qismat_badalti{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(164, 108, 127, 0.822);
     }
     
-    .qismat_badalti-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-qismat_badalti{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-qismat_badalti img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Mere Rashke Qamar */
  .mere_rashke_qamar{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(164, 108, 127, 0.822);
     }
     
-    .mere_rashke_qamar-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-mere_rashke_qamar{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-mere_rashke_qamar img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 /* Janam Janam */
 .janam_janam{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .janam_janam-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-janam_janam{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-janam_janam img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Hamdard */
 .hamdard{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .hamdard-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-hamdard{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-hamdard img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 /* Kahani Suno */
 .kahani_suno{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .kahani_suno-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-kahani_suno{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
 
-    .image-kahani_suno img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
-    
     /* Aarambh Ha Prachand */
 .aarambh_ha_prachand{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .aarambh_ha_prachand-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-aarambh_ha_prachand{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-aarambh_ha_prachand img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
-    
-
-
-
 
     /* Kabhi Jo Badal */
 .kabhi_jo_badal_barse{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .kabhi_jo_badal_barse-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-kabhi_jo_badal_barse{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-kabhi_jo_badal_barse img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 /* Chale Aana */
 .chale_aana{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 167, 109, 0.822);
     }
     
-    .chale_aana-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-chale_aana{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-chale_aana img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 
     /* Tu Pehla Pehla Pyar */
 .tu_pehla_pehla_pyar{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .tu_pehla_pehla_pyar-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-tu_pehla_pehla_pyar{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-tu_pehla_pehla_pyar img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Phir Kabhi */
 .phir_kabhi{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .phir_kabhi-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-phir_kabhi{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-phir_kabhi img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Teri_Mitti */
 .teri_mitti{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(65, 93, 139, 0.82);
     }
     
-    .teri_mitti-audio{
-    width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-teri_mitti{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-teri_mitti img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Kalank */
 .kalank{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(152, 124, 187, 0.822);
     }
     
-    .kalank-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-kalank{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-kalank img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Tum Hi Aana */
 .tum_hi_aana{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(65, 93, 139, 0.82);
     }
     
-    .tum_hi_aana-audio{
-    width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-tum_hi_aana{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-tum_hi_aana img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Kabhii Tumhhe */
 .kabhii_tumhhe{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(65, 93, 139, 0.82);
     }
     
-    .kabhii_tumhhe-audio{
-    width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-kabhii_tumhhe{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-kabhii_tumhhe img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 /* Ve Maahi */
 .ve_maahi{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(51, 157, 127, 0.82);
     }
     
-    .ve_maahi-audio{
-    width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-ve_maahi{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-ve_maahi img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
      /* Bones */
 .bones{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 119, 167, 0.822);
     }
     
-    .bones-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-bones{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-bones img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Believer */
 .believer{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 167, 158, 0.822);
     }
-    
-    .believer-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-believer{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-believer img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
+  
 
 /* Excuses */
 .excuses{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 167, 158, 0.822);
     }
 
     
-    .excuses-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-excuses{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-
-    .image-excuses img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
      /* PW Jee Neet Motivating Song */
 .PW_jee_neet_motivating-song{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .PW_jee_neet_motivating-song-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-PW_jee_neet_motivating-song{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-PW_jee_neet_motivating-song img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
  /* Pal Pal Pil Ke Paas */
  .pal_pal_dil_ke_paas{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .pal_pal_dil_ke_paas-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-pal_pal_dil_ke_paas{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-pal_pal_dil_ke_paas img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 
 /* Samjhawan */
 .samjhawan{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color: #315276;
-}
-
-.image-samjhawan img{
-    width: 100px;
-    border: 2px solid white;
-    border-radius: 5px;
-    margin: 10px;
-}
-
-.samjhawan-audio{
-    width: 60%;
-border: 5px solid aqua;
-border-radius: 5px;
-display: flex;
-margin: auto;
-}
-
-.text-samjhawan{
-    font-size: 30px;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 18%;
-    margin: 2%;
 }
 
 
 
     /* Dekhate Dekhate */
     .dekhate_dekhate{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .dekhate_dekhate-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-dekhate_dekhate{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-dekhate_dekhate img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
-
-
 
 
     /* Dil Tod Ke */
     .dil_tod_ke{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .dil_tod_ke-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-dil_tod_ke{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-dil_tod_ke img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
 
          /* Chahun Main Ya Naa */
     .chahun_main_ya_naa{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .chahun_main_ya_naa-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-chahun_main_ya_naa{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-chahun_main_ya_naa img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
 
         /* Dil Diyan Gallan */
     .dil_diyan_gallan{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .dil_diyan_gallan-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-dil_diyan_gallan{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-dil_diyan_gallan img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
-
 
         
         /* Let Me Down Slowly */
     .let_me_down_slowly{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .let_me_down_slowly-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-let_me_down_slowly{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-let_me_down_slowly img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
 
          /* Fearless */
     .fearless{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .fearless-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-fearless{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-fearless img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
 
 
         
         /* Photo Luka chuppi */
     .photo{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .photo-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-photo{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-photo img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
 
 
          /* Duniyaa Luka Chuppi */
     .duniyaa{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .duniyaa-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-duniyaa{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-duniyaa img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
-
 
 
         /* PT.II alone */
     .pt_ii_alone{
-        border: 3px solid white;
-        border-radius: 5px;
-        margin: 5% 0;
-        display: flex;
         background-color:rgba(58, 101, 175, 0.822);
         }
         
-        .pt_ii_alone-audio{
-            width: 60%;
-        border: 5px solid aqua;
-        border-radius: 5px;
-        display: flex;
-        margin: auto;
-        }
-        
-        .text-pt_ii_alone{
-            font-size: 30px;
-            font-family: 'Amatic SC', cursive;
-            color: white;
-            align-items: center;
-            justify-content: center;
-            justify-content: center;
-            display: flex;
-            width: 18%;
-            margin: 2%;
-        }
-    
-        .image-pt_ii_alone img{
-            width: 100px;
-            border: 2px solid white;
-            border-radius: 5px;
-            margin: 10px;
-        }
-
-
 
 
 
 
    /* Vaaste */
    .vaaste{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 150, 167, 0.822);
     }
     
-    .vaaste-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-vaaste{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-vaaste img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }     
-
-
  /* Gulabi Aankhen */
  .gulabi_aankhen{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .gulabi_aankhen-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-gulabi_aankhen{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-gulabi_aankhen img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Bum Bum Bole */
  .bum_bum_bole{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .bum_bum_bole-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-bum_bum_bole{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-bum_bum_bole img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 /* Kaise Hua */
 .kaise_hua{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(167, 56, 56, 0.822);
     }
     
-    .kaise_hua-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-kaise_hua{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-kaise_hua img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 
 /* Channa Mereya */
 .channa_mereya{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(46, 128, 191, 0.822);
     }
     
-    .channa_mereya-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-channa_mereya{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-channa_mereya img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Maan Meri Jaan */
 .maan_meri_jaan{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .maan_meri_jaan-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-maan_meri_jaan{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-maan_meri_jaan img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Maiya Manu */
 .maiya_manu{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .maiya_manu-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-maiya_manu{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-maiya_manu img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 
     /* Baarish Mein Tum */
 .baarish_mein-tum{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .baarish_mein-tum-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-baarish_mein-tum{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-baarish_mein-tum img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
      /* Chaand Baaliyan */
 .chaand_baaliyan{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .chaand_baaliyan-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-chaand_baaliyan{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-chaand_baaliyan img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
 
      /* Illegal Weapon */
 .illegal_weapon{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .illegal_weapon-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-illegal_weapon{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-illegal_weapon img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Ek Zindagi */
 .ek_zindagi{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .ek_zindagi-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
     
-    .text-ek_zindagi{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-ek_zindagi img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Channa Ve */
 .channa_ve{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .channa_ve-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-channa_ve{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-channa_ve img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Om Deva Deva */
 .om_deva_deva{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .om_deva_deva-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-om_deva_deva{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-om_deva_deva img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
      /* Halki Si Barsaat */
 .halki_si_barsaat{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .halki_si_barsaat-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-halki_si_barsaat{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-halki_si_barsaat img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
     /* Wakhra Swag */
 .wakhra_swag{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .wakhra_swag-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
     
-    .text-wakhra_swag{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-wakhra_swag img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
     /* Lehanga */
 .lehanga{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .lehanga-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-lehanga{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-lehanga img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 
  /* Tujhe Kitna Chahne Lage */
  .tujhe_kitna_chahne_lage{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
-    
-    .tujhe_kitna_chahne_lage-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-tujhe_kitna_chahne_lage{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-tujhe_kitna_chahne_lage img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
+  
 
     
  /* O Saathi */
  .o_saathi{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .o_saathi-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-o_saathi{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-o_saathi img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
 
     /* Tara Ban Jaunga */
 .tara_ban_jaunga{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .tara_ban_jaunga-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-tara_ban_jaunga{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-tara_ban_jaunga img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
      /* Heeriye Heeriye */
 .heeriye_heeriye{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .heeriye_heeriye-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-heeriye_heeriye{
-        font-size: 29px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-heeriye_heeriye img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 
     /* Bekhayali */
 .bekhayali{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:rgba(56, 99, 167, 0.822);
     }
     
-    .bekhayali-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-bekhayali{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-bekhayali img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
-
 
 
     /* Hey Ram Hey Ram */
  .hey_ram_hey_ram{
-    border: 3px solid white;
-    border-radius: 5px;
-    margin: 5% 0;
-    display: flex;
     background-color:#674056;
     }
     
-    .hey_ram_hey_ram-audio{
-        width: 60%;
-    border: 5px solid aqua;
-    border-radius: 5px;
-    display: flex;
-    margin: auto;
-    }
-    
-    .text-hey_ram_hey_ram{
-        font-size: 30px;
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        align-items: center;
-        justify-content: center;
-        justify-content: center;
-        display: flex;
-        width: 18%;
-        margin: 2%;
-    }
-
-    .image-hey_ram_hey_ram img{
-        width: 100px;
-        border: 2px solid white;
-        border-radius: 5px;
-        margin: 10px;
-    }
 
     /* Artists */
    .artists{
@@ -2847,6 +1010,7 @@ margin: auto;
         display: flex;
         overflow: scroll;
         border: 1px solid white;
+        scroll-behavior: smooth;
     }
 
     .text-Artist{
@@ -2859,204 +1023,37 @@ margin: auto;
         animation-iteration-count: infinite;
     }
 
-    /* Justin Beaber */
 
-    .artist-justin-beaber-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
+    /* Artist Main Div */
+
+    .artist_main-div{
+      font-family: 'Amatic SC', cursive;
+      color: white;
+      padding: 1.5% 3%;
     }
 
-    .artist-justin-beaber-main:hover{
-        opacity: 0.8;
+    .artist_main-div:hover{
+      opacity: 0.8;
     }
 
-    .artist-justin-beaber-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
+    /* Artist Image */
+    .artist-image img{
+      width:200px;
+      border: 3px solid white;
+      border-radius: 100px;
     }
 
-    .artist-justin-beaber-text{
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
-    }
-
-
-
-    /* Alan Walkar */
-
-    .artist-alan-walkar-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
-    }
-
-    .artist-alan-walkar-main:hover{
-        opacity: 0.8;
-    }
-
-    .artist-alan-walkar-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
-    }
-
-    .artist-alan-walkar-text{
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
-        color: white;
-    }
-
-
-/* Imagine Dragons */
-
-.artist-imagine-dragons-main{
-    font-family: 'Amatic SC', cursive;
-    color: white;
-    padding: 1.5% 3%;
-}
-
-.artist-imagine-dragons-main:hover{
-    opacity: 0.8;
-}
-
-.artist-imagine-dragons-image img{
-    width:200px;
-    border: 3px solid white;
-    border-radius: 100px;
-}
-
-
-.artist-imagine-dragons-text{
-    color: white;
-    font-size: 25px;
-    font-family: 'Amatic SC', cursive;
-    align-content: center;
-    justify-content: center;
-    display: flex;
-}
-
-
-
-     /* Arijit Singh */
-
-     .artist-arjeet-sigh-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
-    }
-
-    .artist-arjeet-sigh-main:hover{
-        opacity: 0.8;
-    }
-
-    .artist-arjeet-sigh-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
-    }
-
-    .artist-arjeet-sigh-text{
-        color: white;
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
+    /* Artist Name Text */
+    .artist_name-text{
+      font-size: 25px;
+      font-family: 'Amatic SC', cursive;
+      align-content: center;
+      justify-content: center;
+      display: flex;
     }
 
 
 
-     /* Tanishk-Bagchi */
-
-     .artist-tanishk-bagchi-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
-    }
-
-    .artist-tanishk-bagchi-main:hover{
-        opacity: 0.8;
-    }
-
-    .artist-tanishk-bagchi-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
-    }
-
-    .artist-tanishk-bagchi-text{
-        color: white;
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
-    }
-
-
-    /* B Praak */
-
-    .artist-b-praak-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
-    }
-
-    .artist-b-praak-main:hover{
-        opacity: 0.8;
-    }
-
-    .artist-b-praak-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
-    }
-
-    .artist-b-praak-text{
-        color: white;
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
-    }
-
-
-
-    /* Jubin Nautiyal */
-
-    .artist-jubin-nautiyal-main{
-        font-family: 'Amatic SC', cursive;
-        color: white;
-        padding: 1.5% 3%;
-    }
-
-    .artist-jubin-nautiyal-main:hover{
-        opacity: 0.8;
-    }
-
-    .artist-jubin-nautiyal-image img{
-        width:200px;
-        border: 3px solid white;
-        border-radius: 100px;
-    }
-
-    .artist-jubin-nautiyal-text{
-        color: white;
-        font-size: 25px;
-        font-family: 'Amatic SC', cursive;
-        align-content: center;
-        justify-content: center;
-        display: flex;
-    }
 
 
 
@@ -3582,6 +1579,7 @@ top: 2%;
     animation-delay: 6s;
     animation-duration: 6s;
     animation-iteration-count: 1s;
+    scroll-behavior: smooth;
 
 }
 
@@ -3654,8 +1652,6 @@ font-weight: bolder;
   background-color: rgb(215, 130, 205);
   position: relative;
   bottom: 10px;
-  box-shadow: 2000px;
-  ;
   }
   
   .Github-icon {
@@ -3874,426 +1870,23 @@ font-weight: bolder;
       }
 
 
-      .faded-audio {
-        width: 59%;
-    }
-
-    /* Songs Audio width */
-
- /* Mind Relax Lofi Songs */
- .mind-relaxing-lofi-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
- /* Binaural Beats */
- .binaural_Beats-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-
-    /* Faded */
-    .faded-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Alone */
-    .alone-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Bones */
-    .bones-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Daspacito */
-    .daspacito-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Let Me Love You */
-    .lmlu-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Believer */
-    .believer-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Pal Pal Dil Ka Pass */
-    .pal_pal_dil_ke_paas-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Qismat Badalti */
-    .qismat_badalti-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Janam Janam */
-    .janam_janam-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* O Saathi */
-    .o_saathi-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Mann Bharryaa */
-    .mann-bharryaa-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Ranjha */
-    .ranjha-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* desh Mere */
-    .desh_mere-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Teri Mitti */
-    .teri_mitti-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Excuses */
-    .excuses-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Ve Maahi */
-    .ve_maahi-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* PW_JEE_NEET_Motivating */
-    .PW_jee_neet_motivating-song-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Dekhate Dekhate */
-    .dekhate_dekhate-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Vaaste */
-    .vaaste-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Gulabi Aankhen */
-    .gulabi_aankhen-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Hey Ram Hey Ram */
-    .hey_ram_hey_ram-audio {
-        width: 58%;
-        margin: auto 0;
+    .song_audio-controls{
+      width: 59%;
     }
 
 
-     /* Samjhawan */
-     .samjhawan-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Bekhayali */
-     .bekhayali-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Kaise Hua */
-     .kaise_hua-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Bum Bum Bole */
-     .bum_bum_bole-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-
-     /* Halki Si Barsaat */
-     .halki_si_barsaat-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Baarish Mein Tum */
-     .baarish_mein-tum-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Maiya Manu */
-     .maiya_manu-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Maan Meri Jaan */
-     .maan_meri_jaan-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Channa Mereya */
-     .channa_mereya-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Samjhawan */
-     .samjhawan-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Channa Mereya */
-    .channa_mereya-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Maiya Manu */
-    .maiya_manu-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Lehanga */
-    .lehanga-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Kabhii Tumhhe */
-    .kabhii_tumhhe-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    /* Kahani Suno */
-    .kahani_suno-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Chale Aana */
-     .chale_aana-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Illegal Weapon */
-     .illegal_weapon-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Phir Kabhi */
-     .phir_kabhi-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Tu Pehla Pehla Pyar */
-     .tu_pehla_pehla_pyar-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Ek Zindagi */
-     .ek_zindagi-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Let Me Down Slowly */
-     .let_me_down_slowly-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Ek Zindagi */
-     .fearless-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Kahani Suno */
-     .kahani_suno-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Wakhra Swag */
-     .wakhra_swag-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Om Deva Deva  */
-     .om_deva_deva-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Photo */
-     .photo-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Duniyaa */
-     .duniyaa-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Dil Tod Ke */
-     .dil_tod_ke-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-
-     /* Chahun Main Ya Naa */
-     .chahun_main_ya_naa-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-     /* Chahun Main Ya Naa */
-     .chahun_main_ya_naa-audio {
-        width: 58%;
-        margin: auto 0;
-    }
-
-    
- /* Heeriye Heeriye */
- .heeriye_heeriye-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-
-/* Let Me Down Slowly */
-.let_me_down_slowly-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
- /* Fearless */
- .fearless-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-/* Tujhe Kitna Chahne Lage */
-.tujhe_kitna_chahne_lage-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
- /* Tara Ban Jaunga */
- .tara_ban_jaunga-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-
- /* Chaand baaliyan */
- .chaand_baaliyan-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-
- /* Channa Ve */
- .channa_ve-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
- /* Tum Hi Aana  */
- .tum_hi_aana-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
- /* Kalank */
- .kalank-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-/* Hamdard */
-.hamdard-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-/* Kabhi Jo Badal */
-.kabhi_jo_badal_barse-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-/* Aarambh Ha Prachand */
-.aarambh_ha_prachand-audio {
-    width: 58%;
-    margin: auto 0;
-}
-
-
-/* PT.II alone */
-.pt_ii_alone-audio{
-    width: 58%;
-    margin: auto;
-}
-
-/* Mere Rashke Qamar */
-.mere_rashke_qamar-audio{
-    width: 58%;
-    margin: auto;
-}
 
   }
 
   @media only screen and (max-width: 420px) {
+.text-footer a{
+    font-size: 18px;
+}
+
+
+    .song-Recommended-heading {
+    font-size: 125%;
+    }
 
 
     /* Sliding Code Anmol */
@@ -4306,41 +1899,14 @@ font-weight: bolder;
   /* Artist Respornsive CSS */
 
   .text-Artist {
-    font-size: 45px;
+    font-size: 42px;
   }
 
+  /* Artist Image Respornsive */
 
-  .artist-justin-beaber-image img{
-    width:155px;
+  .artist-image img{
+    width:146px;
 }
-
-
-.artist-alan-walkar-image img{
-    width:155px;
-}
-
-
-.artist-imagine-dragons-image img{
-    width:155px;
-}
-
-.artist-arjeet-sigh-image img{
-    width:155px;
-}
-
-.artist-tanishk-bagchi-image img{
-    width:155px;
-}
-
-
-.artist-b-praak-image img{
-    width:155px;
-}
-
-.artist-jubin-nautiyal-image img{
-    width:155px;
-}
-
 
 
 
@@ -4354,397 +1920,29 @@ font-weight: bolder;
         padding: 2% 3%;
     }
 
-    /* Song */
-
-.responsive_song-text{
-    font-size: 25px;
-}
-
-.responsive_song-image img{
-    width: 90px;
-}
 
 
-     /* Mind Relax Lofi Songs */
- .mind-relaxing-lofi-audio {
-    width: 33%;
-    margin: auto 0;
-}
+    /* Song respornsive text */
 
- /* Binaural Beats */
- .binaural_Beats-audio {
-    width:33%;
-    margin: auto 0;
-}
-
-    /* Faded */
-    .faded-audio {
-        width:33%;
-        margin: auto 0;
-    }
-
-    /* Alone */
-    .alone-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Bones */
-    .bones-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Daspacito */
-    .daspacito-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Let Me Love You */
-    .lmlu-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Believer */
-    .believer-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Pal Pal Dil Ka Pass */
-    .pal_pal_dil_ke_paas-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Qismat Badalti */
-    .qismat_badalti-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Janam Janam */
-    .janam_janam-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Mann Bharryaa */
-    .mann-bharryaa-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Ranjha */
-    .ranjha-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* desh Mere */
-    .desh_mere-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Teri Mitti */
-    .teri_mitti-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* O Saathi */
-     .o_saathi-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Excuses */
-    .excuses-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Ve Maahi */
-    .ve_maahi-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* PW_JEE_NEET_Motivating */
-    .PW_jee_neet_motivating-song-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Dekhate Dekhate */
-    .dekhate_dekhate-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Vaaste */
-    .vaaste-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Gulabi Aankhen */
-    .gulabi_aankhen-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Hey Ram Hey Ram */
-    .hey_ram_hey_ram-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-
-     /* Samjhawan */
-     .samjhawan-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Bekhayali */
-     .bekhayali-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Kaise Hua */
-     .kaise_hua-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Bum Bum Bole */
-     .bum_bum_bole-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-
-     /* Halki Si Barsaat */
-     .halki_si_barsaat-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Baarish Mein Tum */
-     .baarish_mein-tum-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Maiya Manu */
-     .maiya_manu-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Maan Meri Jaan */
-     .maan_meri_jaan-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Channa Mereya */
-     .channa_mereya-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-     /* Samjhawan */
-     .samjhawan-audio {
-        width: 33%;
-        margin: auto 0;
-    }
-
-    /* Tu Pehla Pehla Pyar */
-    .tu_pehla_pehla_pyar-audio{
-        width: 33%;
-        margin: auto 0;
-    }
-
- /* Phir Kabhi */
- .phir_kabhi-audio{
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Chale Aana */
- .chale_aana-audio{
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Illegal Weapon */
- .illegal_weapon-audio{
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Ek Zindagi */
-.ek_zindagi-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Kahani Suno */
-.Kahani_suno-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Kabhii Tumhhe */
-.kabhii_tumhhe-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-
-/* Lehanga */
-.lehanga-audio {
-    width: 33%;
-    margin: auto 0;
+.song-name{
+    font-size: 20px;
 }
 
 
 
-  /* Kahani Suno */
-  .kahani_suno-audio {
-    width: 33%;
-    margin: auto 0;
-}
+/* Song respornsive image */
 
- /* Wakhra Swag */
- .wakhra_swag-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Om Deva Deva  */
- .om_deva_deva-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Photo */
- .photo-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Duniyaa */
- .duniyaa-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Dil Tod Ke */
- .dil_tod_ke-audio {
-    width: 33%;
-    margin: auto 0;
+.song_related-image img{
+    width: 75px;
 }
 
 
- /* Chahun Main Ya Naa */
- .chahun_main_ya_naa-audio {
-    width: 33%;
-    margin: auto 0;
-}
 
- /* Heeriye Heeriye */
- .heeriye_heeriye-audio {
-    width: 33%;
-    margin: auto 0;
-}
+/* Songs Audio width Respornsive */
 
-
-/* Let Me Down Slowly */
-.let_me_down_slowly-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Fearless */
- .fearless-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Tujhe Kitna Chahne Lage */
-.tujhe_kitna_chahne_lage-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
- /* Tara Ban Jaunga */
- .tara_ban_jaunga-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-
- /* Chaand baaliyan */
- .chaand_baaliyan-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Channa Ve */
-.channa_ve-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Kalank */
-.kalank-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Tum Hi Aana */
-.tum_hi_aana-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Hamdard */
-.hamdard-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Kabhi Jo Badal */
-.kabhi_jo_badal_barse-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* Aarambh Ha Prachand */
-.aarambh_ha_prachand-audio {
-    width: 33%;
-    margin: auto 0;
-}
-
-/* PT.II alone */
-.pt_ii_alone-audio{
-    width: 33%;
-    margin: auto;
-}
-
-/* Mere Rashke Qamar */
-.mere_rashke_qamar-audio{
-    width: 33%;
-    margin: auto;
-}
-
+     .song_audio-controls{
+        width: 40%;
+     }
 
   }
 
