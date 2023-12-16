@@ -125,25 +125,25 @@ display: flex;
 
 /* Stay */
 .stay{
-    background-color: #a7637c;
-    }
+    background-color: rgb(167, 98, 123, 0.822)
+}
 
 
 /* Daspacito */
 .daspacito{
-    background-color: #917e5c;
+    background-color: rgb(143, 124, 92, 0.822);
     }
     
     
 /* Let Me Love You */
 .lmlu{
-    background-color: #5f8059;
+    background-color: rgb(96, 129, 90, 0.822);
     }
     
 
     /* Never Stay Never */
 .never-stay-never{
-    background-color: #5f8059;
+    background-color: rgb(95, 128, 89, 0.822);
     }
     
 

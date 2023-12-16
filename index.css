@@ -11,8 +11,10 @@ html{
 
 
 body{
-    background-color: rgb(0, 0, 53);
-    /* background:  url('/images/body\ png.gif'); */
+    /* background-color: rgb(0, 0, 53); */
+    background-image: url("https://wallpaper.dog/large/10883221.jpg");
+    background-size: cover;
+    background-attachment: fixed;
   }
   
 
@@ -524,7 +526,10 @@ body{
 
 /* Songs */
 .songs{
-    background-color: rgb(0, 0, 48);
+    /* background-color: rgb(0, 0, 48); */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 0 4%;
 }
 
@@ -1633,6 +1638,10 @@ font-weight: bolder;
 /* .footer-responsive-icons-main-box{
    
   } */
+
+  .text-list_footer{
+    background-color: #000000;
+  }
   
   
   /* Icons */
@@ -1789,7 +1798,6 @@ font-weight: bolder;
   align-items: center;
   justify-content: center;
   padding: 1% 0;
-  background-color: black;
   }
   
 
@@ -1884,6 +1892,8 @@ font-weight: bolder;
 }    
 
 
+
+
     .song-Recommended-heading {
     font-size: 125%;
     }
@@ -1933,7 +1943,7 @@ font-weight: bolder;
 /* Song respornsive image */
 
 .song_related-image img{
-    width: 75px;
+    width: 80px;
 }
 
 
@@ -1944,6 +1954,10 @@ font-weight: bolder;
         width: 36%;
      }
 
+     body {
+       background-color: rgb(0, 0, 53);
+     }
+     
   }
 
   
