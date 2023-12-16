@@ -1879,9 +1879,9 @@ font-weight: bolder;
   }
 
   @media only screen and (max-width: 420px) {
-.text-footer a{
-    font-size: 18px;
-}
+    .text-footer a{
+  font-size: 18px;
+}    
 
 
     .song-Recommended-heading {
