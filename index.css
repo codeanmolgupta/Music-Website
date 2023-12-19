@@ -17,18 +17,10 @@ body{
     background-attachment: fixed;
   }
   
-
-
-  /* Nav Bar */
-  
-  /* .navbar ul li a{
-
-  } */
-
-
-
-
-
+  .marquee-1{
+    color: white;
+    text-shadow: #f26b17;
+  }
 
 
 

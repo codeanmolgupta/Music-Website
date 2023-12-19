@@ -34,6 +34,14 @@ padding: 4% 5%;
     color:rgb(209, 249, 249);
 }
 
+.para-code-anmol-about{
+    font-size: 20px;
+    text-shadow: 2px 2px 2px #3c2fd3;
+    width: 35%;
+    margin: auto;
+    color: #fdfdff;
+}
+
 
 @media only screen and (max-width: 400px) {
 
@@ -44,5 +52,17 @@ padding: 4% 5%;
     .code-anmol-text {
         font-size: 35px;
     }
+
+    .para-code-anmol-about {
+        font-size: 12px;
+        text-shadow: 2px 2px 2px #3c2fd3;
+        width: 63%;
+        margin: auto;
+        color: #fdfdff;
+      }
+      body{
+        padding: 5%;
+}
+      }
 
 }
